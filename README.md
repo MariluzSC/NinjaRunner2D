@@ -13,11 +13,27 @@ Proyecto del curso de Estructuras de Datos del Instituto Tecnológico de Costa R
   * Mariluz Saborío Corea. 
      Correo electrónico: mariluzsabco@gmail.com
      
- 2. Tipo de Juego creado: 
+
+-Nombre del juego : Ninja runner 2D.
+
+-Historia: Esta es la historia de un ninja que quería ser el más rápido de todos.  Él intentó de todo para serlo, pero nada servía, hasta que un día   
+           decidió tomarse  una posión de velocidad, pero lo que no sabía era que esta ocultaba un gran secreto, una vez que se la tomara iba a correr 
+           durante toda la eternidad y los demonios que crearon la posión lo atemorizarían atravesándose en su camino toda la vida.
+           
+
+ 2. Tipo de Juego creado: Runner infinito.
  
  3. Reglas del Juego:
+                    * Juega con las teclas direccionales.
+                    * Debes elegir un personaje ninja.
+                    * Evita tropezar con las rocas resbaladizas, saltando sobre ellas.
+                    * No dejes que los demonios atravesados en el camino te toquen, deberás saltar para eso.
+                     
  
  4. Principales mecánicas implementadas:
+  El personaje avanza hacia adelante sin parar, mientras que el mundo nunca termina.
+  Si el personaje toca alguno de los obstáculos muere, perdiendo así la partida y todo el avance que llevaba.
+  Debes correr hasta alcanzar la mayor distancia recorrida posible.
  
  5. Análisis de resultados obtenidos:
  * Objetivo: Crear sus propios personajes en sprites con una animación basica de movimiento en horizontal.  
