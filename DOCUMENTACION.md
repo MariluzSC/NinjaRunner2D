@@ -58,9 +58,31 @@ Proyecto del curso de Estructuras de Datos del Instituto Tecnológico de Costa R
   
   * Objetivo: Creación de enemigos.  
   Condición: Completado.  
-  Proceso: Se programaron enemigos que aparecen en el recorrido de la partida, los cuales matan al personaje si lo tocan.
+  Proceso: Se programaron enemigos que aparecen en el recorrido de la partida, los cuales matan al personaje si lo tocan.  
   
   * Objetivo: Debe tener sus propias mecánicas, historia, reglas, sorpresas, y otros originales.  
   Condición: Completado.  
-  Proceso: Todo el juego y su historia se r.  
+  Proceso: Todo el juego y su historia se diseñó por los estudiantes.  
+  
+  * Objetivo: El juego debe ser permito para jugadores mayores de 17+  
+  Condición: Completado.  
+  Proceso: El juego tiene un nivel de dificultad apto para mayores de 17.   
+  
+  * Objetivo: No puede tener contenido sexual, de guerra, racista, violento en exceso, discriminatorio, senofóbico.  
+  Condición: Completado.  
+  Proceso: El juego cuenta con una temática libre de odio, discriminación o violencia.   
+  
+  * Objetivo: El juego tendra cuando menos 3 niveles o mapas de juego.  
+  Condición: Completado.  
+  Proceso: Se diseñaron 3 diferentes mapas que el jugador puede elegir antes de jugar.  
+  
+  * Objetivo: Se debe tener al menos una mision a cumplir.  
+  Condición: Completado.  
+  Proceso: El objetivo general del juego es sobrevivir sin chocar contra algún obstáculo o enemigo.  
+  
+  * Objetivo: El juego debe implementar mécanicas que generen desafío para el jugador, que lo vuelvan interesante más no imposible de ganar.  
+  Condición: Completado.  
+  Proceso: El juego no tiene una complejidad insignificante, sin embargo no será imposible ganar.  
+  
+  
 
