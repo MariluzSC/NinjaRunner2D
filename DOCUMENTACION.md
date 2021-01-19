@@ -24,10 +24,10 @@ Proyecto del curso de Estructuras de Datos del Instituto Tecnológico de Costa R
  2. Tipo de Juego creado: Runner infinito.
  
  3. Reglas del Juego:
-                    * Juega con las teclas direccionales.
-                    * Debes elegir un personaje ninja.
-                    * Evita tropezar con las rocas resbaladizas, saltando sobre ellas.
-                    * No dejes que los demonios atravesados en el camino te toquen, deberás saltar para eso.
+                    * Juega con las teclas direccionales.  
+                    * Debes elegir un personaje ninja.  
+                    * Evita tropezar con las rocas resbaladizas, saltando sobre ellas.  
+                    * No dejes que los demonios atravesados en el camino te toquen, deberás saltar para eso.  
                      
  
  4. Principales mecánicas implementadas:
